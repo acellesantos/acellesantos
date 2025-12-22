@@ -6,7 +6,7 @@
 Desenvolvedora em transição de carreira focada no ecossistema **Python**. Atualmente, dedico meus estudos à automação de processos, consumo de APIs e desenvolvimento backend. Acredito que a tecnologia deve ser usada para resolver problemas do cotidiano e otimizar fluxos de trabalho.
 
 - 📍 Localizada em Nova Iguaçu, RJ.
-- 🎓 Estudando intensamente Python, Flask e integração de sistemas.
+- 🎓 Estudando Python com foco em automação, integração de sistemas e desenvolvimento de soluções práticas.
 - 🚀 Buscando minha primeira oportunidade como Desenvolvedora Júnior.
 
 ---
