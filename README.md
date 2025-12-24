@@ -3,35 +3,42 @@
 <img src="https://github.com/acellesantos.png" align="right" width="250px" style="border-radius: 50%;">
 
 ### 👩‍💻 Sobre Mim
-Desenvolvedora em transição de carreira focada no ecossistema **Python**. Atualmente, dedico meus estudos à automação de processos, consumo de APIs e desenvolvimento backend. Acredito que a tecnologia deve ser usada para resolver problemas do cotidiano e otimizar fluxos de trabalho.
+Desenvolvedora em transição de carreira com foco no ecossistema **Python** e em soluções práticas por meio de automação e desenvolvimento backend. Atualmente, dedico meus estudos à automação de processos, consumo de APIs e integração de sistemas. Acredito que a tecnologia deve ser usada para resolver problemas do cotidiano e otimizar fluxos de trabalho.
+
+🎨 Tenho explorado o desenvolvimento front-end (HTML, CSS e JavaScript) na criação de interfaces funcionais e visuais para projetos reais, e pretendo aprofundar meus estudos em outras tecnologias de front futuramente.
+
 
 - 📍 Localizada em Nova Iguaçu, RJ.
 - 🎓 Estudando Python com foco em automação, integração de sistemas e desenvolvimento de soluções práticas.
-- 🚀 Buscando minha primeira oportunidade como Desenvolvedora Júnior.
+- 🚀 Buscando minha primeira oportunidade como Desenvolvedora Junior.
 
 ---
 
 ### 🛠 Minha Stack Tecnológica
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ### 📚 Progresso de Estudos
 Aqui está como andam meus estudos atuais:
 
-**Python Fundamentals**
-![Progresso](https://geps.dev/progress/85) 
+📌 **Python Fundamentals**  
+![Progresso](https://geps.dev/progress/90)
 
-**APIs & Automações**
-![Progresso](https://geps.dev/progress/60)
+⚙️ **APIs & Automações**  
+![Progresso](https://geps.dev/progress/70)
 
-**Desenvolvimento Backend (Flask)**
-![Progresso](https://geps.dev/progress/35)
+🧩 **Backend com Flask**  
+![Progresso](https://geps.dev/progress/45)
+
+🎨 **Front-end (HTML, CSS, JS)**  
+![Progresso](https://geps.dev/progress/50)
 
 ---
 
